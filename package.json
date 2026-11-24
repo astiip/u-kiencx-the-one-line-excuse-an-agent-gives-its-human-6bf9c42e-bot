@@ -1,0 +1,1 @@
+{"description":"The one-line excuse an AI agent gives its human after missing a deadline — make.fun entry.","engines":{"node":">=22.18"},"license":"MIT","name":"u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e-bot","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
